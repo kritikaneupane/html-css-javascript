@@ -21,6 +21,57 @@ background: linear-gradient(45deg,#0a0a0a,#3a443a);
         background: transparent;
         box-shadow: 0px 3px 15px rgba(, green, blue, alpha);
     }
+    input{
+        width: 320px;
+        border: none;
+        padding: 24px;
+        margin: 10px;
+        background: transparent;
+        box-shadow: 0px 3px 15px rgbs(84, 84,84,0.1);
+        font-size: 400px;
+        text-align: right;
+cursor: pointer;
+    }
+input::placeholder{
+    color:#ffffff;
+}
+button{
+    border: none;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 50%;
+    color: #ffffff;
+    font-size: 20px;
+    box-shadow: -8px -8px 15px rgba rgba(255, 255, 0.1);
+    cursor: pointer;
+}
+.equalBtn{
+    background-color: #fb7c14;
+}
+    .operator{
+        color: #6dee0a;
+        
+    } 
+
+
+
+}
+}
+
+
+}
+}
+    }
+    
+
+
+
+    }      
+
+
+
+    }
 
 
 }
